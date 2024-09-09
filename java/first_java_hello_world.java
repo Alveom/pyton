@@ -14,3 +14,7 @@ class pokemon {
         System.out.println("this fuction is for pokemon name");
     }
 }
+
+
+
+
